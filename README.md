@@ -4,9 +4,12 @@ PT: Reservado para o nucleo de estudantes de informática da Universidade Portuc
 The idea behind this repo is to host projects built NDIUPT, the informatics student group of UPT
 
 https://www.upt.pt/
+
 https://www.nediup.pt/
 
 
-Please contact me @tofran
+Please contact my owner:
+
+[@tofran](https://github.com/tofran)
+
 https://tofran.com
-https://github.com/tofran
